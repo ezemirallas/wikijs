@@ -2,7 +2,7 @@
 title: NEW PRUEBA
 description: 
 published: true
-date: 2024-01-05T11:20:07.506Z
+date: 2024-01-05T11:20:09.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T11:12:01.389Z

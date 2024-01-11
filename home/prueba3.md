@@ -2,7 +2,7 @@
 title: prueba3
 description: prueba3
 published: true
-date: 2024-01-05T11:39:25.413Z
+date: 2024-01-05T11:39:27.779Z
 tags: prueba3
 editor: markdown
 dateCreated: 2024-01-05T11:39:25.413Z
